@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ExInterm01/1.0.0": {
+        "runtime": {
+          "ExInterm01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExInterm01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

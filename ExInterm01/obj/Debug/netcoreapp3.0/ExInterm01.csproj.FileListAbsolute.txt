@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\bin\Debug\netcoreapp3.0\ExInterm01.exe
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\bin\Debug\netcoreapp3.0\ExInterm01.deps.json
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\bin\Debug\netcoreapp3.0\ExInterm01.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\bin\Debug\netcoreapp3.0\ExInterm01.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\bin\Debug\netcoreapp3.0\ExInterm01.dll
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\bin\Debug\netcoreapp3.0\ExInterm01.pdb
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\obj\Debug\netcoreapp3.0\ExInterm01.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\obj\Debug\netcoreapp3.0\ExInterm01.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\obj\Debug\netcoreapp3.0\ExInterm01.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\obj\Debug\netcoreapp3.0\ExInterm01.dll
+C:\Users\marcos.paixao\source\repos\ExInterm01\ExInterm01\obj\Debug\netcoreapp3.0\ExInterm01.pdb
